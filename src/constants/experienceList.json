@@ -1,0 +1,22 @@
+[
+  {
+    "company": "HULM Studios",
+    "role": "Frontend Web Developer",
+    "resps": [
+      "Led the development of websites and web applications for businesses within the culinary industry, leveraging React's Library and NextJS Framework.",
+      "Collaborated closely with clients to understand their unique needs and translate them into efficient and modern user interfaces.",
+      "Applied expertise in React and TypeScript to create responsive, interactive, and scalable frontend solutions, ensuring optimal performance and maintainability."
+    ],
+    "date": "Jan 2023 - Current"
+  },
+  {
+    "company": "Frontend Simplified",
+    "role": "Frontend Developer Intern",
+    "resps": [
+      "Transformed a completely static HTML, CSS, JavaScript, and React single-page application into an interactive user interface using animations, transitions, and carousels",
+      "Processed API requests with Axios to dynamically represent data from a cloud server and represented it through skeleton loading states, pagination, and dynamic routing",
+      "Utilized Git version control and the GitHub interface to work and thrive in a virtual and collaborative team environment"
+    ],
+    "date": "Jul 2022 - Jan 2023"
+  }
+]
