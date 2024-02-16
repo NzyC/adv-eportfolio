@@ -99,7 +99,7 @@ export default function Header() {
           </h3>
           <p className="theme--detail">
             <ScrambleText shuffle delay={4}>
-              Hey, I'm Nidal Mahmood, I take on challenging software engineering challenges on a daily. My mission alongside my deep drive to excell is to become a talented and experienced individual within the technology industry.
+              Hey, I'm Nidal Chowdhury, I take on challenging software engineering challenges on a daily. My mission alongside my deep drive to excell is to become a talented and experienced individual within the technology industry.
             </ScrambleText>
           </p>
         </div>
